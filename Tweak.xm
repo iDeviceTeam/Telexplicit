@@ -14,7 +14,7 @@ return false;
 
 - (void)applicationDidBecomeActive:(id)application {
     NSUserDefaults *validate = [NSUserDefaults standardUserDefaults];
-    NSString *alreadyRun = @"already_run1.0";
+    NSString *alreadyRun = @"already_run1.1";
     if ([validate boolForKey:alreadyRun])  
     return;
     [validate setBool:YES forKey:alreadyRun];
