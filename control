@@ -1,0 +1,9 @@
+Package: com.ideviceteam.telexplicit
+Name: Telexplicit
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable Telegram Pornography/Copyright checks for Channels and Groups in iOS.
+Maintainer: iDeviceTeam
+Author: iDeviceTeam
+Section: Tweaks
